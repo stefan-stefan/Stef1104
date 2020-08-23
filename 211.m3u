@@ -1,21 +1,35 @@
+<html><head><title>IP-TV Player – Ñïèñîê ïðîâàéäåðîâ</title><meta http-equiv="Content-Type" content="text/html; charset=windows-1251"></head><body><pre>
+
 [List]
-count=2
+Count=112
 
-1name="Stefan testt(Þíèêàñò/HLS)"
-1um3u="http://tvguide.sibset.ru/playlist/borpas/hls"
+1name="Èíòåðíåò, Ðîññèéñêîå ÒÂ è ðàäèî"
+1um3u="http://borpas.info/iptv/webtv.m3u"
 
-; https://pastebin.com/raw/3ayxnw9H
-; https://pastebin.com/raw/jWTNPAik
-; https://pastebin.com/raw/b5PaSxwF
+2name="——————————————————————————————————————————————————————————————"
+2uini=""
+
+3name="Íîâîñèáèðñê, Ðîñòåëåêîì-Ñèáèðü"
+3um3u="http://tv.adslclub.ru/ws-nsk.m3u"
+;3ulst="http://tv.adslclub.ru/list.ini"
+
+4name="Íîâîñèáèðñê, Íîâîòåëåêîì (Ýëåêòðîííûé Ãîðîä)"
+4um3u="http://tv.novotelecom.ru/playlist/iptv"
+
+5name="Íîâîñèáèðñê, Ñèáèðñêèå Ñåòè"
+5um3u="http://iptv.211.ru/android_player.m3u8"
+5ulst="http://borpas.info/iptv/211.ini"
+
+6name="Òîìñê, Ðîñòåëåêîì-Ñèáèðü"
+6um3u="http://tv.adslclub.ru/ws-tomsk.m3u"
+
+7name="Êåìåðîâî, Ðîñòåëåêîì-Ñèáèðü"
+7um3u="http://tv.adslclub.ru/ws-kem.m3u"
 
 
+[Sign]
+sign=none
 
-2name="Ñèáèðñêèå Ñåòè (Ìóëüòèêàñò)"
-2um3u="http://tvguide.sibset.ru/playlist/borpas/mcast"
-
-; http://tvguide.sibset.ru/playlist/vlc/mcast
-; http://tv.211.ru/playlist_player3.m3u
-; http://tv.211.ru/playlists/playlist_vlc.m3u
-; http://cas.211.ru/playlists/borpas.m3u
+</pre></body></html>
 
 
